@@ -23,7 +23,7 @@ decorator==4.4.0
 Django==2.0.3
 django-celery==3.2.2
 django-filter==2.0.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 dwebsocket==0.4.2
 eventlet==0.22.1
 Faker==4.0.2
