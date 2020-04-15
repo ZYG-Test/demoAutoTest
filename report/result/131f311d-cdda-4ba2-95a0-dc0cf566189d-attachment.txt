@@ -1,0 +1,2 @@
+DEBUG    Requests:RequestsUtil.py:52 发送post请求
+ERROR    AssertUtil:AssertUtil.py:51 不包含或者body是错误，body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODY4NzQ3NTUsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.1egXFhhljY0xOBkie6VdhHencsA_OzUnWsv-hWm_dq0", "username": "python", "user_id": 1},expected_body is "user_id": 1, "username": "python"

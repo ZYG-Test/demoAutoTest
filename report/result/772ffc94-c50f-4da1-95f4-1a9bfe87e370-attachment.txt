@@ -1,0 +1,3 @@
+DEBUG    Requests:RequestsUtil.py:52 发送post请求
+DEBUG    Requests:RequestsUtil.py:52 发送post请求
+ERROR    AssertUtil:AssertUtil.py:20 code error,code is 507,expected_code is 201

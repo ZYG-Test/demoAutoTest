@@ -1,0 +1,2 @@
+DEBUG    Requests:RequestsUtil.py:52 发送post请求
+ERROR    AssertUtil:AssertUtil.py:51 不包含或者body是错误，body is "{'username': ['\u8be5\u5b57\u6bb5\u4e0d\u80fd\u4e3a\u7a7a\u3002']}",expected_body is username': ['该字段不能为空。']
